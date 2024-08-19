@@ -13,10 +13,7 @@
 - **Swipe to Unlock:** Swipe across the screen to reveal a new motivational quote.
 
 ## Preview
-![App Preview](https://www.instagram.com/p/C-0t1UToHst/?img_index=1)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+[App Preview](https://www.instagram.com/p/C-0t1UToHst/?img_index=1)
 
 ## Contact
 For any questions or feedback, feel free to contact us at [Instagram ](https://www.instagram.com/vortexcraft.agency).
